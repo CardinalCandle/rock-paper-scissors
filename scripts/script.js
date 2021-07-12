@@ -99,4 +99,3 @@ function playGame(mv) {
         
     }
 }
-"DIK" + wins
